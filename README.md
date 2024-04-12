@@ -27,5 +27,7 @@ This project is a fun and effective way for you to practice fundamental JavaScri
 
 ## Image Sample
 
-- [x]  ![alt text](https://github.com/Abdulwarissherzad/Quote-Generator-Random/blob/main/Image-Sample.jpg)
+- [x]
+
+![alt text](https://github.com/Abdulwarissherzad/Quote-Generator-Random/blob/main/Image-Sample.jpg)
 
